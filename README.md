@@ -34,7 +34,7 @@ If you are looking for a talented Full-stack Web and Python Developer who can de
 
 <p align="center">
     <table>
-        <tr>
+        <tr height="100">
             <td><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="w3_html5-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="w3_css-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript-github-profile-awesome-beautiful" width="100"/></td>
