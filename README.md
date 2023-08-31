@@ -42,9 +42,9 @@ If you are looking for a talented Full-stack Web and Python Developer who can de
             <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue-github-profile-awesome-beautiful" width="100"></td>
-            <td><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs-github-profile-awesome-beautiful" width="100"></td>
-            <td><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular-github-profile-awesome-beautiful" width="100"></td>
+            <td><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue-github-profile-awesome-beautiful" width="100"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs-github-profile-awesome-beautiful" width="100"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs-github-profile-awesome-beautiful" width="100"/></td>
@@ -60,7 +60,7 @@ If you are looking for a talented Full-stack Web and Python Developer who can de
             <td><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="aws-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="aws-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft_azure-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="postgresql-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="djangoproject-github-profile-awesome-beautiful" width="100"/></td>
