@@ -18,8 +18,8 @@ If you are looking for a talented Full-stack Web and Python Developer who can de
 
 
 #### Website Development
-- <b>Front-end</b> : Javascript | Typescript | React.js | Next.js | Vue.js | Nuxt.js | Angular | TailwindCSS
-- <b>Back-end</b> : Node.js | Express.js | PHP | Laravel | Python | Django
+- <b>Front-end</b> : Javascript | Typescript | React.js | Next.js | Vue.js | Nuxt.js | Angular | TailwindCSS | C#
+- <b>Back-end</b> : Asp.net | Node.js | Express.js | PHP | Laravel | Python | Django
 - <b>Database</b> : Mysql | PostgreSQL | MongoDB | Firebase | Elasticsearch
 - <b>CMS</b> : Wordpress | Shopify | Contentful | Headless CMS
 - Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Pusher and so on
