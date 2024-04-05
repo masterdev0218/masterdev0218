@@ -83,7 +83,7 @@ If you are looking for a talented Full-stack Web and Python Developer who can de
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sailingdev&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
 </p>
 #### My Contact
-- <b>Gmail</b> : daniel.lee0218929@gmail.com 
-- <b>Skype</b> : live:.cid.e11f4fdd4a4fe91d
-- <b>Telegram</b> :  
-- <b>Discrod</b> : masterdev0218
+- <b>Gmail</b> : daniel.lee0218929@gmail.com  <br>
+- <b>Skype</b> : live:.cid.e11f4fdd4a4fe91d <br>
+- <b>Telegram</b> :   <br>
+- <b>Discrod</b> : masterdev0218 <br>
