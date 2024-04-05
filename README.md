@@ -82,3 +82,8 @@ If you are looking for a talented Full-stack Web and Python Developer who can de
     &nbsp;
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sailingdev&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
 </p>
+<p>
+    skype : 
+    telegram : 
+    discord :
+</p>
