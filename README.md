@@ -81,8 +81,8 @@ If you are looking for a talented Full-stack Web and Python Developer who can de
   <img src="https://github-readme-stats.vercel.app/api?username=sailingdev&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
     &nbsp;
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sailingdev&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
-</p>
-#### My Contact
+</p> 
+#### My Contact <br>
 - <b>Gmail</b> : daniel.lee0218929@gmail.com  <br>
 - <b>Skype</b> : live:.cid.e11f4fdd4a4fe91d <br>
 - <b>Telegram</b> :   <br>
