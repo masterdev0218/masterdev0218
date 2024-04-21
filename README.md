@@ -84,5 +84,5 @@ If you are looking for a talented Full-stack Web and Python Developer who can de
 </p> 
 #### My Contact <br>
 - <b>Skype</b> : live:.cid.e11f4fdd4a4fe91d <br>
-- <b>Telegram</b> :   <br>
-- <b>Discrod</b> : masterdev0218 <br>
+- <b>Telegram</b> : https://t.me/master_dev0218  <br>
+- <b>Discord</b> : masterdev0218 <br>
