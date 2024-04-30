@@ -5,7 +5,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sailingdev&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Seasoned Web & Python Developer
+## Seasoned Web & Python & blockchain Developer
 
 -@- Passionate about crafting exceptional web experiences and building robust applications -@-
 <p style = "margin-left: 30px">
@@ -75,7 +75,6 @@ If you are looking for a talented Full-stack Web and Python Developer who can de
         </tr>
     </table>
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sailingdev&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
