@@ -28,7 +28,10 @@ If you are looking for a talented Full-stack Web and Python Developer who can de
 - <b>Machine Learning</b> : Scikit-learn | TensorFlow | PyTorch
 - <b>Natural Language Processing</b> : NLTK | spaCy
 - <b>Scraping & Automation</b> : Beautiful Soup | Selenium | Scrapy
-
+#### Blockchain Development
+- <b>Language</b> : web3 | smart contract | Solidity | Truffl | Hardhat 
+- <b>Trading bot</b> : EVM | Flash | Loan | NFT 
+- <b>Sites</b> : DEX | UNISWAP 
 
 ### Skills and Tools:
 
