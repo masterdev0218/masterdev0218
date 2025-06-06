@@ -5,7 +5,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sailingdev&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Seasoned Web & Python & BlockChain Developer
+## Seasoned Web & App Developer
 
 -@- Passionate about crafting exceptional web experiences and building robust applications -@-
 <p style = "margin-left: 30px">
