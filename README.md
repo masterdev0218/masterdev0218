@@ -10,7 +10,7 @@
 -@- Passionate about crafting exceptional web experiences and building robust applications -@-
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
-10+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
+5+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
 What sets me apart is my ability to understand and translate business requirements into technical solutions.<br>
 Whether it's developing a new web application from scratch, optimizing existing code, or troubleshooting complex issues, I approach every project with passion and attention to detail.<br>
 If you are looking for a talented Full-stack Web and Python Developer who can deliver top-notch solutions that exceed expectations, let's connect! Together, we can turn your ideas into reality.
